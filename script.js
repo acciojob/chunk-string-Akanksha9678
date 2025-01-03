@@ -8,7 +8,7 @@ function stringChop(str, size) {
 		let a=str.slice(i,i+size)
 		array.push(a)
 	}
-	return array
+	return array;
 }
 
 // Do not change the code below
